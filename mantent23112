@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+ <head>
+  <meta charset="UTF-8">
+<title>Sitio en mantenimiento</title>
+<style>
+  body { text-align: center; padding: 150px; }
+  h1 { font-size: 50px; }
+  body { font: 20px Helvetica, sans-serif; color: #333; }
+  article { display: block; text-align: left; width: 650px; margin: 0 auto; }
+  a { color: #dc8100; text-decoration: none; }
+  a:hover { color: #333; text-decoration: none; }
+</style>
+</head> 
+<body>
+  
+<article>
+    <h1>¡Volveremos Pronto!</h1>
+    <div>
+        <p>¡Perd&oacute;n por el inconveniente, pero nos encontramos en mantenimiento ahora mismo. Si nos necesitas puedes contactarnos siempre a <a href="mailto:info@koderlite.com">info@koderlite.com</a>, nuestro sitio volverá a estar en linea en poco tiempo!</p>
+        <p>&mdash; Team KoderLite</p>
+    </div>
+</article>
+
+
+</body>
+</html>

@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^koderadmin\.koderlite\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.koderadmin\.koderlite\.com$
+RewriteRule ^/?$ "https\:\/\/gator3087\.hostgator\.com\:2083" [R=301,L]
+
