@@ -1,7 +1,7 @@
 <?php
 session_cache_limiter( 'nocache' );
 
-$to = "info@koderlite.com";  //Recipient's E-mail
+$to = "koderlite@gmail.com";  //Recipient's E-mail
 
 $headers  = 'MIME-Version: 1.0' . "\r\n";
 $headers .= "From: " . $_REQUEST['name'].'<'.$_REQUEST['email'] .'>'. "\r\n"; 
